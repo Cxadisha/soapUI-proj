@@ -611,7 +611,6 @@
          <!--Optional:-->
          <tem:id>5</tem:id>
       </tem:FindPerson>
-
    </soapenv:Body>\r
 </soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="9cee5752-7d78-4b5e-bdf2-c88730240ca0"/><con:assertion type="XPath Match" id="87e1ad64-b65e-4bb6-a0a5-bd0f503030d9" name="XPath Match"><con:configuration><path>declare namespace SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/';
 declare namespace s='http://www.w3.org/2001/XMLSchema';
